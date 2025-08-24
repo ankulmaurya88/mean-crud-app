@@ -1,0 +1,5 @@
+module.exports = {
+  url: 'mongodb+srv://ankulmaurya88:coRU4t3S2upJOztC@cluster0.o9oojii.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+};
+
+
